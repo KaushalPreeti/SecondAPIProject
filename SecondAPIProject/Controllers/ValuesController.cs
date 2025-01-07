@@ -13,7 +13,7 @@ namespace SecondAPIProject.Controllers
         [Route("TestName")]
         public string getData()
         {
-            return "Hi Kaushal";
+            return "Hi Kaushal This is Test";
         }
 
     }
