@@ -1,0 +1,6 @@
+@SecondAPIProject_HostAddress = http://localhost:5084
+
+GET {{SecondAPIProject_HostAddress}}
+Accept: application/json
+
+###
